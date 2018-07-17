@@ -1,2 +1,2 @@
 # ubiquiti
-Script de backup automatico de equipamentos ubiquiti
+Script de backup automático de equipamentos ubiquiti
